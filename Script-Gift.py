@@ -1,5 +1,5 @@
 import os,time
-print('\033[0;91m\n Checking Your Mobile...\033[1;37m')
+print('\033[0;91m\n Checking Your Mobile...?\033[1;37m')
 time.sleep(10)
 print('\033[0;92m\n Congratulations! Your Device Support This Tools\033[1;37m')
 time.sleep(5)
